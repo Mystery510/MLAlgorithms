@@ -1,2 +1,2 @@
 # MLAlgorithms
-JUst some basic algorithms with their codes 
+Just some basic algorithms with their codes 
